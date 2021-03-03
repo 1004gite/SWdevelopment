@@ -1,8 +1,5 @@
 # SWdevelopment
 Software Development Practices(CSE2024)
-[workflow]:../workflow.md
+[사용한 workflow][link]
 
-
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com
+[link]: ../workflow.md
